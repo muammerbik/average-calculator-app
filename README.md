@@ -1,16 +1,9 @@
-# ortalama_hesaplama_app
+# Average Calculator App
 
-A new Flutter project.
+"This simple Flutter application helps users calculate the average of the numbers they input. Users can easily enter numbers, and the app instantly displays the average of those numbers. With a fast and user-friendly interface, calculating averages has never been easier."
 
-## Getting Started
+## Topics
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dart
+- Flutter
+- palette_generator

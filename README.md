@@ -6,4 +6,4 @@
 
 - Dart
 - Flutter
-- palette_generator
+- Google Fonts
